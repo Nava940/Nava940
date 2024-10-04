@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-![image](https://github.com/user-attachments/assets/b205524e-87fc-4aae-93cc-874999604df0)
+<p><em _msttexthash="98313592" _msthash="270"><img height="508" width="532" src="/static/1.png" alt="Diseñado por: Freepik" />A comienzos del siglo XX, los países industrializados no tenían normas de protección para la infancia. Frecuentemente, los niños trabajaban con los adultos en condiciones insalubres e inseguras. El creciente reconocimiento de la injusticia que entrañaba esta situación, producto de una comprensión más profunda de las necesidades de desarrollo de los niños, llevó a la creación de un movimiento para proteger mejor a la infancia.</em></p>
+<p><em _msttexthash="19774079" _msthash="271">Las normas internacionales sobre los derechos del niño avanzaron notablemente durante el siglo pasado; sin embargo, persisten problemas para que esos ideales lleguen a ser realidad. (UNICEF, 2015)</em></p>
+<h5 _msthidden="1"><strong _msttexthash="7799025" _msthash="272">Entérate más sobre la <a href="https://www.unicef.org/es/convencion-derechos-nino/historia" target="_blank">Historia de los derechos del niño</a><span style="color: #000000;">.</span></strong></h5>
 
